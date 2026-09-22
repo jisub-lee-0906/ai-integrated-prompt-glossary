@@ -73,6 +73,10 @@ PDF 부록에는 **혼동 용어 비교 24묶음, 개념 도식 6개, 제작 명
 
 Midjourney, Stable Diffusion, Runway, ChatGPT, Claude 등의 작업을 설명할 때 참고할 수 있습니다. 도구별 지원 기능과 실제 파일 속성은 별도로 확인해야 합니다. 모든 예시를 모든 모델에서 실행해 검증한 것은 아닙니다.
 
+## 저장소 구조와 한계
+
+이 저장소는 Markdown 웹 용어집과 배포용 PDF를 함께 보관하는 정적 참고자료입니다. 애플리케이션 코드·패키지 설정·자동 테스트 명령은 포함하지 않으며, PDF는 원본 산출물로 취급합니다. 웹 항목을 고쳐도 PDF가 자동으로 재생성되지는 않습니다. 링크와 용어 수는 변경 후 직접 검토해야 하며, 외부 도구 기능·모델 지원 여부는 각 도구의 최신 공식 문서에서 별도로 확인하세요.
+
 ## 오류 제보와 개선 참여
 
 용어가 부정확하거나 설명이 부족한가요? **[오류 제보](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/issues/new?template=correction.yml)** 또는 **[새 용어 제안](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/issues/new?template=term_request.yml)**을 남겨 주세요. 항목 번호·문제·근거가 있으면 수정 방향을 찾기 쉽습니다.
