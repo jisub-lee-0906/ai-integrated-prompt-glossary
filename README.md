@@ -75,9 +75,9 @@ CONTENTS.md      PDF 상세 목차와 쪽수
 
 별도 앱 설치 없이 저장소의 웹 문서나 PDF에서 시작합니다.
 
-1. 작업을 어떤 말로 설명할지 모르면 **[48개 작업 의도에서 찾기](glossary/TASK_FINDER.md)**를 엽니다.
+1. 작업을 어떤 말로 설명할지 모르면 [48개 작업 의도에서 찾기](glossary/TASK_FINDER.md)를 엽니다.
 2. 용어의 정의·혼동 구분을 읽고 실행 대상·조건·검수 기준을 요청문에 반영합니다.
-3. **[실무 제작 명령서 12개](examples/README.md)**를 상황에 맞게 수정하고 실제 결과물로 확인합니다.
+3. [실무 제작 명령서 12개](examples/README.md)를 상황에 맞게 수정하고 실제 결과물로 확인합니다.
 
 - **이름을 몰라도 찾기:** [48개 작업 의도에서 용어 찾기](glossary/TASK_FINDER.md)
 - **디자인·UX/UI·3D:** [레이아웃·디자인 시스템](glossary/D2.md) · [타이포그래피](glossary/D3.md) · [투영·카메라](glossary/D7.md) · [메시·재질](glossary/D8.md)
@@ -121,7 +121,7 @@ Midjourney, Stable Diffusion, Runway, ChatGPT, Claude 등의 작업을 설명할
 
 ### 오류 제보
 
-용어가 부정확하거나 설명이 부족한가요? **[오류 제보](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=correction.yml)** 또는 **[새 용어 제안](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=term_request.yml)**을 남겨 주세요. 항목 번호·문제·근거가 있으면 수정 방향을 찾기 쉽습니다.
+용어가 부정확하거나 설명이 부족한가요? **[오류 제보](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=correction.yml)** 또는 [새 용어 제안](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=term_request.yml)을 남겨 주세요. 항목 번호·문제·근거가 있으면 수정 방향을 찾기 쉽습니다.
 
 작은 오탈자나 링크 수정도 환영합니다. [기여 안내](CONTRIBUTING.md)를 확인하세요. 한국어와 영어로 의견을 받을 수 있습니다.
 
