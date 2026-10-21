@@ -42,6 +42,6 @@
 
 ## AI의 도움을 받아 작성했나요? 오류는 어디로 제보하나요?
 
-AI의 도움을 받아 원고와 예시를 구성하고 문서를 편집했습니다. 각 장에는 관련 기술 개념을 확인할 공식 참고자료를 연결했습니다. 오류는 항목 번호·쪽수·근거와 함께 제보해 주세요. [AI 활용 안내](../AI_USAGE.md) · [오류 제보](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/issues/new?template=correction.yml)
+AI의 도움을 받아 원고와 예시를 구성하고 문서를 편집했습니다. 각 장에는 관련 기술 개념을 확인할 공식 참고자료를 연결했습니다. 오류는 항목 번호·쪽수·근거와 함께 제보해 주세요. [AI 활용 안내](../AI_USAGE.md) · [오류 제보](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=correction.yml)
 
 © 2026 이지섭 · jisub0906@gmail.com · AI의 도움을 받아 작성.

@@ -6,7 +6,7 @@
 
 UX/UI 디자인, 그래픽·3D, 영상 편집·모션 그래픽, 웹·앱 개발에서 쓰는 **240개 실무 용어**를 정리한 한국어 AI 프롬프트 용어 사전입니다. **정의 → 구체적인 명령 → 결과 검수 → 수정 요청**으로 연결하며, 무료 열람용 203쪽 PDF와 웹 용어집을 제공합니다.
 
-**[실무 용어 240개 웹에서 읽기](glossary/README.md)** · **[무료 PDF 용어집 열람](book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[PDF 바로 다운로드](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/raw/refs/heads/main/book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[English](README.en.md)**
+**[실무 용어 240개 웹에서 읽기](glossary/README.md)** · **[무료 PDF 용어집 열람](book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[PDF 바로 다운로드](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/raw/refs/heads/main/book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[English](README.en.md)**
 
 > A practical vocabulary reference for precise AI instructions in UX/UI, graphics, 3D, video, motion design, web development and systems. Korean reference with English terminology and a separate [English quick-start guide](docs/QUICKSTART.en.md).
 
@@ -75,7 +75,7 @@ Midjourney, Stable Diffusion, Runway, ChatGPT, Claude 등의 작업을 설명할
 
 ## 오류 제보와 개선 참여
 
-용어가 부정확하거나 설명이 부족한가요? **[오류 제보](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/issues/new?template=correction.yml)** 또는 **[새 용어 제안](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/issues/new?template=term_request.yml)**을 남겨 주세요. 항목 번호·문제·근거가 있으면 수정 방향을 찾기 쉽습니다.
+용어가 부정확하거나 설명이 부족한가요? **[오류 제보](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=correction.yml)** 또는 **[새 용어 제안](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=term_request.yml)**을 남겨 주세요. 항목 번호·문제·근거가 있으면 수정 방향을 찾기 쉽습니다.
 
 작은 오탈자나 링크 수정도 환영합니다. [기여 안내](CONTRIBUTING.md)를 확인하세요. 한국어와 영어로 의견을 받을 수 있습니다.
 

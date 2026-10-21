@@ -227,4 +227,4 @@ Deliver editable sources and identify unresolved dependencies or unverified requ
 
 ---
 
-Written with AI assistance. © 2026 이지섭 (Jisub Lee). [Usage terms](../LICENSE.md) · [Suggest a correction](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/issues/new?template=correction.yml)
+Written with AI assistance. © 2026 이지섭 (Jisub Lee). [Usage terms](../LICENSE.md) · [Suggest a correction](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=correction.yml)

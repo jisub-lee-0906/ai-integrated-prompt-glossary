@@ -6,7 +6,7 @@ Know the result you want, but not the words to ask for it?
 
 This AI prompt glossary covers UX/UI design, graphics, 3D, video editing, motion graphics, web development and systems. It connects professional terminology to **actionable instructions, settings, acceptance checks and repair prompts**. Learn when to ask for kerning instead of tracking, a dolly instead of a zoom, or idempotency instead of a generic “no duplicates” requirement.
 
-**[English quick start](docs/QUICKSTART.en.md)** · **[English A–Z term index](glossary/ENGLISH_INDEX.md)** · **[Download PDF](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/raw/refs/heads/main/book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[한국어](README.md)**
+**[English quick start](docs/QUICKSTART.en.md)** · **[English A–Z term index](glossary/ENGLISH_INDEX.md)** · **[Download PDF](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/raw/refs/heads/main/book/AI_Integrated_Prompt_Glossary_KO.pdf)** · **[한국어](README.md)**
 
 **Language:** The 203-page book and full web reference are primarily Korean, with English terminology and selected English prompts. This overview and the quick-start examples are in English; they are not a full English translation of the book.
 
@@ -53,7 +53,7 @@ Use **subject + action + constraints + settings + deliverables + acceptance chec
 - [Complete online reference](glossary/README.md) — 24 chapters with shareable entry anchors.
 - [English copy-ready starter](docs/QUICKSTART.en.md) — 12 practical request examples.
 - [Korean production briefs](examples/README.md) — complete specifications and repair paths.
-- [Report a correction](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/issues/new?template=correction.yml) or [suggest a term](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/issues/new?template=term_request.yml).
+- [Report a correction](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=correction.yml) or [suggest a term](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=term_request.yml).
 - [Contribution guide](CONTRIBUTING.md) · [Citation information](CITATION.cff).
 
 ## Copyright and AI assistance

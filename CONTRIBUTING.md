@@ -12,7 +12,7 @@
 ## 먼저 작은 범위로 제안하기
 
 1. 기존 항목과 Issues를 확인합니다.
-2. [오류 제보](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/issues/new?template=correction.yml) 또는 [용어 제안](https://github.com/jisub-lee-0906/ai_integrated_prompt_glossary/issues/new?template=term_request.yml)에 항목 번호와 이유를 적습니다.
+2. [오류 제보](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=correction.yml) 또는 [용어 제안](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary/issues/new?template=term_request.yml)에 항목 번호와 이유를 적습니다.
 3. 수정 PR은 관련 Markdown 파일만 바꾸고, 근거 링크와 변경 이유를 설명합니다.
 
 용어 본문은 glossary/의 장별 파일에 있습니다. 영어 안내는 README.en.md와 docs/QUICKSTART.en.md, 실전 명령서는 examples/README.md에 있습니다. PDF 쪽수는 현재 출판본 기준이므로 웹 문서를 고쳤다고 임의로 변경하지 마세요. PDF와 웹 본문의 차이가 생기는 수정에는 해당 항목을 PR에 명시해 주세요.
